@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working on my skills to work from the Business Development up to Frontend Development
 - 🌱 I’m currently learning VTEX IO
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 📫 Reach me however you want: email, instagram, twitter; I'm always up for an adventure and always online for a great talk
 - ⚡ Fun fact: I'm into Business and Inovation
-
+<!-- - 👯 I’m looking to collaborate on ... -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -34,6 +33,6 @@
   <a href = "mailto:ptmarmello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-thiago-marmello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ptmarmello/ptmarmello/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/ptmarmello/ptmarmello/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
