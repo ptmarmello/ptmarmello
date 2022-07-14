@@ -1,7 +1,7 @@
 ### Hey there, I'm Pedro Thiago!👋
 
-- 🔭 I’m currently working on my skills to work from the Business Development up to Frontend Development
-- 🌱 I’m currently learning VTEX IO
+- 🔭 I’m currently working on my skills to work from Business Development up to Frontend Development
+- 🌱 I’m currently looking for a Dev position
 - 📫 Reach me however you want: email, instagram, twitter; I'm always up for an adventure and always online for a great talk
 - ⚡ Fun fact: I'm into Business and Inovation
 <!-- - 👯 I’m looking to collaborate on ... -->
